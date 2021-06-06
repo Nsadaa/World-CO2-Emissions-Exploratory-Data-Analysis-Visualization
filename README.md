@@ -1,4 +1,4 @@
-# World-CO2-Emissions-Exploratory-Data-Analysis-Visualization-Story-Telling.
+# World-CO2-Emissions Exploratory Data Analysis | Visualization & Story Telling.
 
 ## Introduction
 >World Co2 Emissions Exploratory Data Analysis , Visualization &amp; Story Telling Using Python
