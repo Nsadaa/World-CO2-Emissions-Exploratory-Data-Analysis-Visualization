@@ -19,7 +19,7 @@
 >
 > LifeExpectancy: Life Expectancy of the Country (2016).
 
-## Technologu
+## Technology
 >Pandas, Numpy, Matplotlib, seaborn
 
 ## Resources
