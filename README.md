@@ -3,6 +3,15 @@
 ## Introduction
 >World Co2 Emissions Exploratory Data Analysis , Visualization &amp; Story Telling Using Python
 
+## Objectives
+> Analyse The Data And Build Useful Insights.
+> 
+> Identify The Releationship Between Each Features.
+> 
+> Find Reasons For The Each Realtionships.
+
+
+
 ## Summary About Dataset
 ### Features
 > Country: Unique Identifier.
